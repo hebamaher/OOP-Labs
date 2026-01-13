@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764861869 source:d:\iti\oop\labs\lab12\q4\main.cpp
+	<iostream>
+	<graphics.h>
+
