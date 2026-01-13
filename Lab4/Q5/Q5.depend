@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763887950 source:d:\iti\oop\labs\lab4\q5\main.cpp
+	<iostream>
+	<MyLibrary.h>
+	<conio.h>
+
